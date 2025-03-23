@@ -1,5 +1,7 @@
 # Style Loom - Online Clothing Store  
 
+[Live Demo](https://style-loom.netlify.app/)  
+
 ## Overview  
 
 Style Loom is an e-commerce platform offering a variety of clothing for men, women, and unisex categories. Users can browse, purchase, and manage their orders seamlessly.  
